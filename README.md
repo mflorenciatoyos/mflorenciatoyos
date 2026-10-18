@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Florencia Toyos 👋
 
-<!--
-**mflorenciatoyos/mflorenciatoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos en formación. Me interesa convertir datos en información útil para tomar decisiones.
 
-Here are some ideas to get you started:
+## 🛠️ Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📊 Proyectos destacados
+
+- [Análisis de churn de clientes en telecomunicaciones](https://github.com/FlorenciaToyos/churn-clientes-telco): qué clientes tienen más probabilidad de darse de baja y por qué.
+
+## 📫 Contacto
+
+[LinkedIn](https://linkedin.com/in/tu-perfil) · tuemail@ejemplo.com
